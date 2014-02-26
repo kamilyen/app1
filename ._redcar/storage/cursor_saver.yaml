@@ -9,4 +9,7 @@ cursor_positions:
   - :path: Gemfile
     :cursor_offset: 426
     :timestamp: 2014-02-26 17:44:05.437000 +03:00
+  - :path: README.md
+    :cursor_offset: 151
+    :timestamp: 2014-02-26 18:29:19.387000 +03:00
 files_to_retain: 0
