@@ -1,0 +1,12 @@
+--- 
+cursor_positions: 
+  - :path: config/database.yml
+    :cursor_offset: 199
+    :timestamp: 2014-02-26 17:55:43.901000 +03:00
+  - :path: .gitignore
+    :cursor_offset: 0
+    :timestamp: 2014-02-26 17:44:05.434000 +03:00
+  - :path: Gemfile
+    :cursor_offset: 426
+    :timestamp: 2014-02-26 17:44:05.437000 +03:00
+files_to_retain: 0
